@@ -9,3 +9,6 @@ h3, h2{
 #ul1, #ul2, #ul3, p {
   display: none;
 }
+em{
+  display: block;
+}
